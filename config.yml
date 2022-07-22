@@ -1,4 +1,73 @@
 baseURL: https://oscar-izval.github.io/oscar-blog/
 languageCode: en-us
 title: My New Hugo Site
-theme: "PaperMod"
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: search/
+      weight: 10
+    - name: Tags
+      url: tags/
+      weight: 10
+    - name: WiKi
+      url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+    - name: Discord
+      url: https://discord.gg/ahpmTvhVmp
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  description: "My Blog params desc"
+  author: Oscar Izquierdo Valentin
+
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShowReadingTime: true
+  disableSpecial1stPost: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: true
+  comments: false
+
+  cover:
+    hidden: true # hide in home
+    hiddenInList: true # hide on list pages 
+    hiddenInSingle: false # hide on single page
+    linkFullImages: false
+    responsiveImages: false
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >
+        Welcome to demo of hugo's theme PaperMod.
+        - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+        - Do give a 🌟 on Github !
+        - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+  socialIcons:
+    - name: github
+      url: "https://github.com/oscar-izval"

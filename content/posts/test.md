@@ -5,7 +5,7 @@ date: "2022-07-22"
 description: "Sample article"
 tags: ["markdown", "css", "html", "themes"]
 categories: ["themes", "syntax"]
-series: ["Themes Guide"]
+# series: ["Themes Guide"]
 ShowToc: true
 TocOpen: true
 cover:

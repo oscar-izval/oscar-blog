@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://oscar-izval.github.io/oscar-blog/
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"

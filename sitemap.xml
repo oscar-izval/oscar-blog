@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://oscar-izval.github.io/oscar-blog/categories/</loc></url><url><loc>https://oscar-izval.github.io/oscar-blog/</loc></url><url><loc>https://oscar-izval.github.io/oscar-blog/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://oscar-izval.github.io/oscar-blog/categories/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/tags/css/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/tags/html/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/tags/markdown/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/posts/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/categories/syntax/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/tags/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/posts/test/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/tags/themes/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/categories/themes/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/archives/</loc>
+  </url><url>
+    <loc>https://oscar-izval.github.io/oscar-blog/search/</loc>
+  </url>
+</urlset>

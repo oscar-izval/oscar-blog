@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://oscar-izval.github.io/oscar-blog/sitemap.xml

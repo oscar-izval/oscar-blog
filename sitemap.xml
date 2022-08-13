@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.oscarizval.com/categories/</loc>
+    <loc>http://blog.oscarizval.com/categories/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oscarizval.com/tags/css/</loc>
+    <loc>http://blog.oscarizval.com/tags/css/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oscarizval.com/tags/html/</loc>
+    <loc>http://blog.oscarizval.com/tags/html/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oscarizval.com/tags/markdown/</loc>
+    <loc>http://blog.oscarizval.com/tags/markdown/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oscarizval.com/</loc>
+    <loc>http://blog.oscarizval.com/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oscarizval.com/posts/</loc>
+    <loc>http://blog.oscarizval.com/posts/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oscarizval.com/categories/syntax/</loc>
+    <loc>http://blog.oscarizval.com/categories/syntax/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oscarizval.com/tags/</loc>
+    <loc>http://blog.oscarizval.com/tags/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oscarizval.com/posts/test/</loc>
+    <loc>http://blog.oscarizval.com/posts/test/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oscarizval.com/tags/themes/</loc>
+    <loc>http://blog.oscarizval.com/tags/themes/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oscarizval.com/categories/themes/</loc>
+    <loc>http://blog.oscarizval.com/categories/themes/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oscarizval.com/archives/</loc>
+    <loc>http://blog.oscarizval.com/archives/</loc>
   </url><url>
-    <loc>https://www.oscarizval.com/search/</loc>
+    <loc>http://blog.oscarizval.com/search/</loc>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>markdown on My New Hugo Site</title>
-    <link>http://blog.oscarizval.com/tags/markdown/</link>
+    <link>https://blog.oscarizval.com/tags/markdown/</link>
     <description>Recent content in markdown on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.oscarizval.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.oscarizval.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TestPost</title>
-      <link>http://blog.oscarizval.com/posts/test/</link>
+      <link>https://blog.oscarizval.com/posts/test/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.oscarizval.com/posts/test/</guid>
+      <guid>https://blog.oscarizval.com/posts/test/</guid>
       <description>Sample article</description>
     </item>
     

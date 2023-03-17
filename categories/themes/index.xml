@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>themes on My New Hugo Site</title>
+    <title>themes on Digital Atlantis</title>
     <link>https://blog.oscarizval.com/categories/themes/</link>
-    <description>Recent content in themes on My New Hugo Site</description>
+    <description>Recent content in themes on Digital Atlantis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.oscarizval.com/categories/themes/index.xml" rel="self" type="application/rss+xml" />

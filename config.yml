@@ -1,6 +1,6 @@
 baseURL: https://blog.oscarizval.com/
 languageCode: en-us
-title: My New Hugo Site
+title: Digital Atlantis
 paginate: 5
 theme: PaperMod
 
@@ -62,12 +62,12 @@ params:
     responsiveImages: false
 
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hi there! \U0001F44B"
     Content: >
-        Welcome to demo of hugo's theme PaperMod.
-        - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-        - Do give a 🌟 on Github !
-        - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+        Welcome to my personal blog! 
+        This is where I share my thoughts, experiences, and insights on various topics that interest me. 
+        Whether it's about technology, finances, or personal development, I aim to write pieces that are 
+        informative, engaging, and thought-provoking.
   socialIcons:
     - name: github
       url: "https://github.com/oscar-izval"

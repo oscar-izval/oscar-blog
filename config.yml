@@ -31,7 +31,7 @@ outputs:
     - JSON
 
 params:
-  description: "My Blog params desc"
+  description: "My Blog params description"
   author: Oscar Izquierdo Valentin
 
   defaultTheme: auto

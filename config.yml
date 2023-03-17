@@ -19,18 +19,10 @@ minify:
 menu:
   main:
     - name: Archive
-      url: archives
+      url: archive
       weight: 5
-    - name: Search
-      url: search/
-      weight: 10
-    - name: Tags
-      url: tags/
-      weight: 10
-    - name: WiKi
-      url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-    - name: Discord
-      url: https://discord.gg/ahpmTvhVmp
+    - name: About me
+      url: about
 
 outputs:
   home:
@@ -71,3 +63,5 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/oscar-izval"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/oscar-izquierdo-valentin/"
